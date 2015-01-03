@@ -1,8 +1,7 @@
 title:            lærm
 description:      music. subculture. politics.
 disqus_shortname: lærm
-reading_time:     true
-words_per_minute: 200
+reading_time:     false
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
@@ -11,7 +10,7 @@ url:
 owner:
   name:           Martin
   avatar:         avatar.jpg
-  bio:            "vegan. drug free. music junky"
+  bio:            "vegan. drug free. music junkie."
   email:          xlaermx@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
