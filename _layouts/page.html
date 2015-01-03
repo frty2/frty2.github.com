@@ -43,6 +43,14 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
+
+    <ul class="entry-meta inline-list">
+      {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+        {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+        <li><a href="#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span></a></li>
+      {% endunless %}{% endfor %}
+    </ul>
+
     {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
   </article>
 </div><!-- /#main -->
