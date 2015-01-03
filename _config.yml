@@ -1,6 +1,6 @@
-title:            My music blog
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            lærm
+description:      music. subculture. politics.
+disqus_shortname: lærm
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -12,7 +12,7 @@ owner:
   name:           Martin
   avatar:         avatar.jpg
   bio:            "vegan. drug free. music junky"
-  email:          you@email.com
+  email:          xlaermx@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +105080950175195898985
+  google_plus:    +104161976843553807057
 
 # Background image to be tiled on all pages
 background: 
