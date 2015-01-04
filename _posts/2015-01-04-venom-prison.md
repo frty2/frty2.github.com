@@ -12,7 +12,7 @@ image:
 ---
 
 <figure>
-  <img src="/images/content/venom_prison/cover.jpg" alt="venom prison logo">
+  <img src="/images/content/venom_prison/cover.jpg" alt="venom prison cover">
 </figure>
 
 1. Usurper Of The Throne: 02:31
