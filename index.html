@@ -44,8 +44,6 @@ image:
     {% else %}
       <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
     {% endif %}
-  {% else %}
-    Previous
   {% endif %}
   <ul class="inline-list">
     <li>
@@ -67,7 +65,5 @@ image:
   </ul>
   {% if paginator.next_page %}
     <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
-  {% else %}
-    Next
   {% endif %}
 </div><!-- /.pagination -->
