@@ -23,4 +23,4 @@ image:
 6. Le Renouveau: 01:43
 7. Puis Survient La Fuite: 06:43
 
-[Facebook](https://www.facebook.com/pages/Après-La-Chute) - [Bandcamp](http://aprslachute.bandcamp.com/releases)
+[Facebook](https://www.facebook.com/pages/Apr%C3%A8s-La-Chute/1443459955891146) - [Bandcamp](http://aprslachute.bandcamp.com/releases)
