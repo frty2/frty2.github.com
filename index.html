@@ -32,6 +32,9 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
+    {% if post.albumid %}
+      <iframe style="border: 0; width: 350px; height: 350px;" src="http://bandcamp.com/EmbeddedPlayer/album={{ post.albumid }}/size=large/bgcol=ffffff/linkcol=de270f/minimal=true/transparent=true/" seamless></iframe>
+    {% endif %}
     {{ post.content }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
