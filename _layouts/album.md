@@ -36,7 +36,22 @@
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
+      {% if page.albumid %}
       <iframe style="border: 0; width: 350px; height: 621px;" src="http://bandcamp.com/EmbeddedPlayer/album={{ page.albumid }} /size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless></iframe>
+      {% endif %}
+
+      {% if page.facebook %}
+        [Facebook]({% page.facebook %})
+      {% endif %}
+
+      {% if page.myspace %}
+        [Myspace]({% page.myspace %})
+      {% endif %}
+
+      {% if page.bandcamp %}
+        [Bandcamp]({% page.bandcamp %})
+      {% endif %}
+      
       {{ content }}
       <footer class="entry-meta">
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>

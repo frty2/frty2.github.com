@@ -8,18 +8,9 @@ comments: false
 share: false
 link: http://ekranoplandoomgrind.bandcamp.com/releases
 albumid: 547498753
+facebook: https://www.facebook.com/ekranoplanband
+bandcamp: http://ekranoplandoomgrind.bandcamp.com/releases
+myspace:
 image:
   feature: content/ekranoplan/logo.jpg
 ---
-
-<figure>
-  <img src="/images/content/ekranoplan/cover.jpg" alt="ekranoplan cover">
-</figure>
-
-1. Broken Future: 07:06
-2. Stop Asking: 02:05
-3. Graues Gesicht: 04:02
-4. Pressure: 02:51
-5. Manchmal: 05:18
-
-[Facebook](https://www.facebook.com/ekranoplanband) - [Bandcamp](http://ekranoplandoomgrind.bandcamp.com/releases)
