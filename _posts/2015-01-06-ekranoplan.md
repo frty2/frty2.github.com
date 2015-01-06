@@ -8,7 +8,7 @@ comments: false
 share: false
 link: http://ekranoplandoomgrind.bandcamp.com/releases
 image:
-  feature: content/ekranoplan/logo.png
+  feature: content/ekranoplan/logo.jpg
 ---
 
 <figure>
