@@ -41,15 +41,15 @@
       {% endif %}
 
       {% if page.facebook %}
-        [Facebook]({% page.facebook %})
+        [Facebook]({{ page.facebook }})
       {% endif %}
 
       {% if page.myspace %}
-        [Myspace]({% page.myspace %})
+        [Myspace]({{ page.myspace }})
       {% endif %}
 
       {% if page.bandcamp %}
-        [Bandcamp]({% page.bandcamp %})
+        [Bandcamp]({{ page.bandcamp }})
       {% endif %}
       
       {{ content }}
