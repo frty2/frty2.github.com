@@ -6,7 +6,6 @@ modified: 2015-01-04
 tags: [death metal, hardcore, uk]
 comments: false
 share: false
-link: http://venomprison.bandcamp.com/releases
 albumid: 2183949622
 facebook: https://www.facebook.com/venomprison
 bandcamp: http://venomprison.bandcamp.com/releases
