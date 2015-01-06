@@ -39,19 +39,19 @@
       {% if page.albumid %}
       <iframe style="border: 0; width: 350px; height: 621px;" src="http://bandcamp.com/EmbeddedPlayer/album={{ page.albumid }} /size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless></iframe>
       {% endif %}
-
+      <br />
       {% if page.facebook %}
-        [Facebook]({{ page.facebook }})
+        <a href="{{ page.facebook }}" target="_blank">Facebook</a> -
       {% endif %}
 
       {% if page.myspace %}
-        [Myspace]({{ page.myspace }})
+        <a href="{{ page.myspace }}" target="_blank">Myspace</a> - 
       {% endif %}
 
       {% if page.bandcamp %}
-        [Bandcamp]({{ page.bandcamp }})
+        <a href="{{ page.bandcamp }}" target="_blank">Bandcamp</a> - 
       {% endif %}
-      
+
       {{ content }}
       <footer class="entry-meta">
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
