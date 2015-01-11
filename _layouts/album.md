@@ -37,7 +37,7 @@
     </header>
     <div class="entry-content">
       {% if page.albumid %}
-      <iframe style="border: 0; width: 350px; height: 621px;" src="http://bandcamp.com/EmbeddedPlayer/album={{ page.albumid }} /size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless></iframe>
+      <iframe style="border: 0; width: 350px; height: 621px;" src="//bandcamp.com/EmbeddedPlayer/album={{ page.albumid }} /size=large/bgcol=ffffff/linkcol=de270f/transparent=true/" seamless></iframe>
       {% endif %}
       <br />
       {% if page.facebook %}

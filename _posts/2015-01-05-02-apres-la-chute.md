@@ -7,8 +7,8 @@ tags: [crust, screamo, darkhardcore, france]
 comments: false
 share: false
 albumid: 3372948596
-facebook: https://www.facebook.com/pages/Apr%C3%A8s-La-Chute/1443459955891146
-bandcamp: http://aprslachute.bandcamp.com/releases
+facebook: //www.facebook.com/pages/Apr%C3%A8s-La-Chute/1443459955891146
+bandcamp: //aprslachute.bandcamp.com/releases
 myspace:
 image:
   feature: content/apres_la_chute/logo.jpg

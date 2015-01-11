@@ -7,8 +7,8 @@ tags: [doom, d-beat, sludge, germany]
 comments: false
 share: false
 albumid: 547498753
-facebook: https://www.facebook.com/ekranoplanband
-bandcamp: http://ekranoplandoomgrind.bandcamp.com/releases
+facebook: //www.facebook.com/ekranoplanband
+bandcamp: //ekranoplandoomgrind.bandcamp.com/releases
 myspace:
 image:
   feature: content/ekranoplan/logo.jpg
